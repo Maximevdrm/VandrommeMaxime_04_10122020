@@ -94,7 +94,6 @@ a:hover {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
-
 .b-parallax {
     background-attachment: fixed;
 }
@@ -824,7 +823,20 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
-
+.citation{
+    font-size: 1.4em;
+    font-style: italic;
+    color: #020202;
+}
+.refcitation{
+    font-size: 1em;
+}
+.clients{
+    margin: auto;
+    width: 50%;
+    border-top: #FEFDFF 3px solid;
+    border-bottom: #FEFDFF 3px solid;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
