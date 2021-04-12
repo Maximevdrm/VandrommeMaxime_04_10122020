@@ -752,7 +752,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #4C3E29;
     padding: 40px 40px 40px 40px;
 }
 
@@ -774,7 +774,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -836,6 +836,13 @@ h4 {
     width: 50%;
     border-top: #FEFDFF 3px solid;
     border-bottom: #FEFDFF 3px solid;
+}
+.agrandi{
+    font-size: 14px;
+    font-style: italic;
+}
+.contactnoir{
+    color: #020202 !important;
 }
 @media (max-width: 1024px) {
     .bloc {
