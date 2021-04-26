@@ -849,7 +849,15 @@ h4 {
 .contactnoir{
     color: #020202 !important;
 }
-
+.barrecontact{
+    width: 8%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    right: 10% !important;
+    list-style: none;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
